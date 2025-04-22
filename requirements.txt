@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+joblib
+emoji>=2.0.0
+wordcloud>=1.8.1
